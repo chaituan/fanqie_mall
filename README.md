@@ -54,5 +54,5 @@ Codeigniter + layui + vant-weapp + mysql
 
 #### 商业授权
 演示后台，请咨询客服<br>
-请使用微信扫码打开 <br>
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0921/155517_f3f45983_430822.png "1569052409.png")
+微信扫码，查看演示 <br>
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0930/152018_b6815afd_430822.jpeg "qrcode_for_gh_014c66f6d601_258.jpg")
